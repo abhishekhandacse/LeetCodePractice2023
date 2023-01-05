@@ -2,6 +2,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
+//Accepted
 public class LC_2244 {
     public int minimumRounds(int[] tasks) {
         HashMap<Integer,Integer> hm=new HashMap<>();
